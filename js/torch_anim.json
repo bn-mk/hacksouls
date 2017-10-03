@@ -1,0 +1,36 @@
+{"frames": {
+
+"torch_1.png":
+{
+	"frame": {"x":23,"y":1,"w":19,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":19,"h":52},
+	"sourceSize": {"w":19,"h":52}
+},
+"torch_2.png":
+{
+	"frame": {"x":44,"y":1,"w":18,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":18,"h":52},
+	"sourceSize": {"w":18,"h":52}
+},
+"torch_3.png":
+{
+	"frame": {"x":1,"y":1,"w":20,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":20,"h":52},
+	"sourceSize": {"w":20,"h":52}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "torch_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":63,"h":54},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2a3f7804c21a3276c8a4748ad488b109:ea3cb20984b8437aa3b1de54978202a7:ae266e5640174c1cac1367d730a79de5$"
+}
+}
